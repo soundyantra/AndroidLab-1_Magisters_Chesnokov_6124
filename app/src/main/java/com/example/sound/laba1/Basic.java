@@ -45,7 +45,7 @@ public class Basic extends AppCompatActivity
     private ViewPagerAdapter mViewPagerAdapter;
     private TabLayout mTabLayout;
 
-
+//stupid comment for the sake of comment
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
